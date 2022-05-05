@@ -11,7 +11,7 @@ For those users tired of reading the documents can get real benefit from this so
 # Download
 
 ```bash
-git clone https://github.com/bimal-tech/TTS.git
+git clone https://github.com/bishnu-khojwar/Text-to-Speech-Synthesis.git
 ```
 
 # Installation

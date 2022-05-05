@@ -1,4 +1,4 @@
-# **Text-to-Speech Synthesis System
+# Text-to-Speech Synthesis System
 
 This project discusses on development of a text to speech synthesizing system based on Natural Language Processing.
 
